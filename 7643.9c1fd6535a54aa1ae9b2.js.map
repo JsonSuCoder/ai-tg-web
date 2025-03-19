@@ -1,0 +1,1 @@
+{"version":3,"file":"7643.9c1fd6535a54aa1ae9b2.js","mappings":"sJAIA,Q,MAAA,E","sources":["webpack://telegram-t/./src/lib/croppie.ts"],"sourcesContent":["import Croppie from 'croppie';\n\nimport 'croppie/croppie.css';\n\nexport default Croppie;\n"],"names":[],"sourceRoot":""}
