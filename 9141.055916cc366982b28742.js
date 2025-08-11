@@ -1,0 +1,2 @@
+(self.webpackChunkTeleGPT=self.webpackChunkTeleGPT||[]).push([[9141],{10164:e=>{e.exports=function(e){return{name:"VBScript in HTML",subLanguage:"xml",contains:[{begin:"<%",end:"%>",subLanguage:"vbscript"}]}}}}]);
+//# sourceMappingURL=9141.055916cc366982b28742.js.map

@@ -1,0 +1,2 @@
+(self.webpackChunkTeleGPT=self.webpackChunkTeleGPT||[]).push([[69],{67172:e=>{e.exports=function(e){return{name:"LDIF",contains:[{className:"attribute",match:"^dn(?=:)",relevance:10},{className:"attribute",match:"^\\w+(?=:)"},{className:"literal",match:"^-"},e.HASH_COMMENT_MODE]}}}}]);
+//# sourceMappingURL=69.2c535946eb8e57f549d7.js.map

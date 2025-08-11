@@ -1,0 +1,2 @@
+(self.webpackChunkTeleGPT=self.webpackChunkTeleGPT||[]).push([[3906],{19601:e=>{e.exports=function(e){return{name:"Clojure REPL",contains:[{className:"meta.prompt",begin:/^([\w.-]+|\s*#_)?=>/,starts:{end:/$/,subLanguage:"clojure"}}]}}}}]);
+//# sourceMappingURL=3906.47738f3b2c0f35d06f24.js.map

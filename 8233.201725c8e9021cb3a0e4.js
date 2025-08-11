@@ -1,0 +1,2 @@
+(self.webpackChunkTeleGPT=self.webpackChunkTeleGPT||[]).push([[8233],{99040:e=>{e.exports=function(e){return{name:"Plain text",aliases:["text","txt"],disableAutodetect:!0}}}}]);
+//# sourceMappingURL=8233.201725c8e9021cb3a0e4.js.map

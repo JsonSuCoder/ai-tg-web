@@ -1,0 +1,2 @@
+(self.webpackChunkTeleGPT=self.webpackChunkTeleGPT||[]).push([[6869],{8340:e=>{e.exports=function(e){const a=e.COMMENT(/\(\*/,/\*\)/);return{name:"Extended Backus-Naur Form",illegal:/\S/,contains:[a,{className:"attribute",begin:/^[ ]*[a-zA-Z]+([\s_-]+[a-zA-Z]+)*/},{begin:/=/,end:/[.;]/,contains:[a,{className:"meta",begin:/\?.*\?/},{className:"string",variants:[e.APOS_STRING_MODE,e.QUOTE_STRING_MODE,{begin:"`",end:"`"}]}]}]}}}}]);
+//# sourceMappingURL=6869.bbb1b731b6673096a6d4.js.map

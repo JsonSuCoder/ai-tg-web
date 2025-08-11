@@ -1,0 +1,2 @@
+(self.webpackChunkTeleGPT=self.webpackChunkTeleGPT||[]).push([[9238],{30621:e=>{e.exports=function(e){const l=["true","false","null"],n={scope:"literal",beginKeywords:l.join(" ")};return{name:"JSON",keywords:{literal:l},contains:[{className:"attr",begin:/"(\\.|[^\\"\r\n])*"(?=\s*:)/,relevance:1.01},{match:/[{}[\],:]/,className:"punctuation",relevance:0},e.QUOTE_STRING_MODE,n,e.C_NUMBER_MODE,e.C_LINE_COMMENT_MODE,e.C_BLOCK_COMMENT_MODE],illegal:"\\S"}}}}]);
+//# sourceMappingURL=9238.ed51fe294f9c09db7e97.js.map
