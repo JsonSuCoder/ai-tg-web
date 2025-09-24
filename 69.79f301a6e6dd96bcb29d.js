@@ -1,0 +1,2 @@
+(self.webpackChunkTelyAI=self.webpackChunkTelyAI||[]).push([[69],{67172:e=>{e.exports=function(e){return{name:"LDIF",contains:[{className:"attribute",match:"^dn(?=:)",relevance:10},{className:"attribute",match:"^\\w+(?=:)"},{className:"literal",match:"^-"},e.HASH_COMMENT_MODE]}}}}]);
+//# sourceMappingURL=69.79f301a6e6dd96bcb29d.js.map

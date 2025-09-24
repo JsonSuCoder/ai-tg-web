@@ -1,0 +1,2 @@
+(self.webpackChunkTelyAI=self.webpackChunkTelyAI||[]).push([[6047],{20150:e=>{e.exports=function(e){return{name:"Tagger Script",contains:[{className:"comment",begin:/\$noop\(/,end:/\)/,contains:[{begin:/\\[()]/},{begin:/\(/,end:/\)/,contains:[{begin:/\\[()]/},"self"]}],relevance:10},{className:"keyword",begin:/\$[_a-zA-Z0-9]+(?=\()/},{className:"variable",begin:/%[_a-zA-Z0-9:]+%/},{className:"symbol",begin:/\\[\\nt$%,()]/},{className:"symbol",begin:/\\u[a-fA-F0-9]{4}/}]}}}}]);
+//# sourceMappingURL=6047.f7e66ce7cf9000c7a4d4.js.map
