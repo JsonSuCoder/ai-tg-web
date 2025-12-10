@@ -1,2 +1,0 @@
-(self.webpackChunkTelyAI=self.webpackChunkTelyAI||[]).push([[3906],{19601:e=>{e.exports=function(e){return{name:"Clojure REPL",contains:[{className:"meta.prompt",begin:/^([\w.-]+|\s*#_)?=>/,starts:{end:/$/,subLanguage:"clojure"}}]}}}}]);
-//# sourceMappingURL=3906.1a99f6a4f6e563638710.js.map

@@ -1,2 +1,0 @@
-(self.webpackChunkTelyAI=self.webpackChunkTelyAI||[]).push([[8233],{99040:e=>{e.exports=function(e){return{name:"Plain text",aliases:["text","txt"],disableAutodetect:!0}}}}]);
-//# sourceMappingURL=8233.0d9c556a14cf35c25d02.js.map

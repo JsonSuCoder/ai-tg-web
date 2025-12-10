@@ -1,2 +1,0 @@
-(self.webpackChunkTelyAI=self.webpackChunkTelyAI||[]).push([[8214],{38813:s=>{s.exports=function(s){return{name:"Shell Session",aliases:["console","shellsession"],contains:[{className:"meta.prompt",begin:/^\s{0,3}[/~\w\d[\]()@-]*[>%$#][ ]?/,starts:{end:/[^\\](?=\s*$)/,subLanguage:"bash"}}]}}}}]);
-//# sourceMappingURL=8214.0442e0a03d2d06cd6d6c.js.map

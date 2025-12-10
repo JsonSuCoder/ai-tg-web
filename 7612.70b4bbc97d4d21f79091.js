@@ -1,2 +1,0 @@
-(self.webpackChunkTelyAI=self.webpackChunkTelyAI||[]).push([[7612],{20283:e=>{e.exports=function(e){return{aliases:["pycon"],contains:[{className:"meta.prompt",starts:{end:/ |$/,starts:{end:"$",subLanguage:"python"}},variants:[{begin:/^>>>(?=[ ]|$)/},{begin:/^\.\.\.(?=[ ]|$)/}]}]}}}}]);
-//# sourceMappingURL=7612.70b4bbc97d4d21f79091.js.map

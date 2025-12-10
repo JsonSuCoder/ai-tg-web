@@ -1,2 +1,0 @@
-(self.webpackChunkTelyAI=self.webpackChunkTelyAI||[]).push([[9141],{10164:e=>{e.exports=function(e){return{name:"VBScript in HTML",subLanguage:"xml",contains:[{begin:"<%",end:"%>",subLanguage:"vbscript"}]}}}}]);
-//# sourceMappingURL=9141.79c5d621493d00c7d806.js.map
