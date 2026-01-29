@@ -1,11 +1,11 @@
 "use strict";
 (self["webpackChunkTelyAI"] = self["webpackChunkTelyAI"] || []).push([["src_global_actions_ui_calls_ts"],{
 
-/***/ "./src/global/actions/ui/calls.ts":
+/***/ "./src/global/actions/ui/calls.ts"
 /*!****************************************!*\
   !*** ./src/global/actions/ui/calls.ts ***!
   \****************************************/
-/***/ ((__unused_webpack_module, __webpack_exports__, __webpack_require__) => {
+(__unused_webpack_module, __webpack_exports__, __webpack_require__) {
 
 __webpack_require__.r(__webpack_exports__);
 /* harmony export */ __webpack_require__.d(__webpack_exports__, {
@@ -456,7 +456,7 @@ function checkMicrophonePermission(global, actions, ...[tabId = (0,_util_establi
   });
 }
 
-/***/ })
+/***/ }
 
 }]);
 //# sourceMappingURL=src_global_actions_ui_calls_ts.681cb284886959ae7770.js.map

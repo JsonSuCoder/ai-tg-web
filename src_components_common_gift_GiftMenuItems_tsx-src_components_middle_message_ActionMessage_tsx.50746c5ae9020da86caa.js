@@ -1,11 +1,11 @@
 "use strict";
 (self["webpackChunkTelyAI"] = self["webpackChunkTelyAI"] || []).push([["src_components_common_gift_GiftMenuItems_tsx-src_components_middle_message_ActionMessage_tsx"],{
 
-/***/ "./src/components/common/MiniTable.module.scss":
+/***/ "./src/components/common/MiniTable.module.scss"
 /*!*****************************************************!*\
   !*** ./src/components/common/MiniTable.module.scss ***!
   \*****************************************************/
-/***/ ((__unused_webpack_module, __webpack_exports__, __webpack_require__) => {
+(__unused_webpack_module, __webpack_exports__, __webpack_require__) {
 
 __webpack_require__.r(__webpack_exports__);
 /* harmony export */ __webpack_require__.d(__webpack_exports__, {
@@ -14,13 +14,13 @@ __webpack_require__.r(__webpack_exports__);
 // extracted by mini-css-extract-plugin
 /* harmony default export */ const __WEBPACK_DEFAULT_EXPORT__ = ({"root":"cKr8J5k_","key":"c9RLLvfs","value":"QEuGpzIc"});
 
-/***/ }),
+/***/ },
 
-/***/ "./src/components/common/MiniTable.tsx":
+/***/ "./src/components/common/MiniTable.tsx"
 /*!*********************************************!*\
   !*** ./src/components/common/MiniTable.tsx ***!
   \*********************************************/
-/***/ ((__unused_webpack_module, __webpack_exports__, __webpack_require__) => {
+(__unused_webpack_module, __webpack_exports__, __webpack_require__) {
 
 __webpack_require__.r(__webpack_exports__);
 /* harmony export */ __webpack_require__.d(__webpack_exports__, {
@@ -51,13 +51,13 @@ const MiniTable = ({
 };
 /* harmony default export */ const __WEBPACK_DEFAULT_EXPORT__ = ((0,_teact__WEBPACK_IMPORTED_MODULE_0__.memo)(MiniTable));
 
-/***/ }),
+/***/ },
 
-/***/ "./src/components/common/gift/GiftMenuItems.tsx":
+/***/ "./src/components/common/gift/GiftMenuItems.tsx"
 /*!******************************************************!*\
   !*** ./src/components/common/gift/GiftMenuItems.tsx ***!
   \******************************************************/
-/***/ ((__unused_webpack_module, __webpack_exports__, __webpack_require__) => {
+(__unused_webpack_module, __webpack_exports__, __webpack_require__) {
 
 __webpack_require__.r(__webpack_exports__);
 /* harmony export */ __webpack_require__.d(__webpack_exports__, {
@@ -260,13 +260,13 @@ const GiftMenuItems = ({
 };
 /* harmony default export */ const __WEBPACK_DEFAULT_EXPORT__ = ((0,_teact__WEBPACK_IMPORTED_MODULE_0__.memo)(GiftMenuItems));
 
-/***/ }),
+/***/ },
 
-/***/ "./src/components/common/gift/GiftRibbon.module.scss":
+/***/ "./src/components/common/gift/GiftRibbon.module.scss"
 /*!***********************************************************!*\
   !*** ./src/components/common/gift/GiftRibbon.module.scss ***!
   \***********************************************************/
-/***/ ((__unused_webpack_module, __webpack_exports__, __webpack_require__) => {
+(__unused_webpack_module, __webpack_exports__, __webpack_require__) {
 
 __webpack_require__.r(__webpack_exports__);
 /* harmony export */ __webpack_require__.d(__webpack_exports__, {
@@ -275,13 +275,13 @@ __webpack_require__.r(__webpack_exports__);
 // extracted by mini-css-extract-plugin
 /* harmony default export */ const __WEBPACK_DEFAULT_EXPORT__ = ({"root":"AmQSvxpZ","text":"pQW7dcwr"});
 
-/***/ }),
+/***/ },
 
-/***/ "./src/components/common/gift/GiftRibbon.tsx":
+/***/ "./src/components/common/gift/GiftRibbon.tsx"
 /*!***************************************************!*\
   !*** ./src/components/common/gift/GiftRibbon.tsx ***!
   \***************************************************/
-/***/ ((__unused_webpack_module, __webpack_exports__, __webpack_require__) => {
+(__unused_webpack_module, __webpack_exports__, __webpack_require__) {
 
 __webpack_require__.r(__webpack_exports__);
 /* harmony export */ __webpack_require__.d(__webpack_exports__, {
@@ -355,13 +355,13 @@ const GiftRibbon = ({
   };
 })(GiftRibbon)));
 
-/***/ }),
+/***/ },
 
-/***/ "./src/components/middle/message/ActionMessage.tsx":
+/***/ "./src/components/middle/message/ActionMessage.tsx"
 /*!*********************************************************!*\
   !*** ./src/components/middle/message/ActionMessage.tsx ***!
   \*********************************************************/
-/***/ ((__unused_webpack_module, __webpack_exports__, __webpack_require__) => {
+(__unused_webpack_module, __webpack_exports__, __webpack_require__) {
 
 __webpack_require__.r(__webpack_exports__);
 /* harmony export */ __webpack_require__.d(__webpack_exports__, {
@@ -845,13 +845,13 @@ const ActionMessage = ({
   };
 })(ActionMessage)));
 
-/***/ }),
+/***/ },
 
-/***/ "./src/components/middle/message/SimilarChannels.module.scss":
+/***/ "./src/components/middle/message/SimilarChannels.module.scss"
 /*!*******************************************************************!*\
   !*** ./src/components/middle/message/SimilarChannels.module.scss ***!
   \*******************************************************************/
-/***/ ((__unused_webpack_module, __webpack_exports__, __webpack_require__) => {
+(__unused_webpack_module, __webpack_exports__, __webpack_require__) {
 
 __webpack_require__.r(__webpack_exports__);
 /* harmony export */ __webpack_require__.d(__webpack_exports__, {
@@ -860,13 +860,13 @@ __webpack_require__.r(__webpack_exports__);
 // extracted by mini-css-extract-plugin
 /* harmony default export */ const __WEBPACK_DEFAULT_EXPORT__ = ({"root":"V3RHiOJR","notch":"tfG_BSDt","notch-path":"HVbeGv4t","notchPath":"HVbeGv4t","header":"s7QOi22Q","title":"JstcOhAN","close":"meewH7t_","icon":"d8axZxyN","skeleton":"xKVZv7KE","inner":"njAC8dR9","is-appearing":"eb8rX09E","isAppearing":"eb8rX09E","channels-appear":"AL2cLQ4i","channelsAppear":"AL2cLQ4i","is-hiding":"XR6_qLCc","isHiding":"XR6_qLCc","channels-disappear":"TwwnoiuD","channelsDisappear":"TwwnoiuD","channel-list":"h4gWlNen","channelList":"h4gWlNen","item":"glDpC2av","last-item":"MBChXyXk","lastItem":"MBChXyXk","avatar":"gqCs9fSo","badge":"gnYhwnvf","members-count":"HWgwnKui","membersCount":"HWgwnKui","channel-title":"BTNQ4KBH","channelTitle":"BTNQ4KBH","fake-avatar":"Xl9MVMTn","fakeAvatar":"Xl9MVMTn","fake-avatar-inner":"Qizai7yv","fakeAvatarInner":"Qizai7yv","last-fake-avatar":"JxSmtOFi","lastFakeAvatar":"JxSmtOFi"});
 
-/***/ }),
+/***/ },
 
-/***/ "./src/components/middle/message/SimilarChannels.tsx":
+/***/ "./src/components/middle/message/SimilarChannels.tsx"
 /*!***********************************************************!*\
   !*** ./src/components/middle/message/SimilarChannels.tsx ***!
   \***********************************************************/
-/***/ ((__unused_webpack_module, __webpack_exports__, __webpack_require__) => {
+(__unused_webpack_module, __webpack_exports__, __webpack_require__) {
 
 __webpack_require__.r(__webpack_exports__);
 /* harmony export */ __webpack_require__.d(__webpack_exports__, {
@@ -1141,13 +1141,13 @@ function MoreChannels({
   };
 })(SimilarChannels)));
 
-/***/ }),
+/***/ },
 
-/***/ "./src/components/middle/message/actions/ChannelPhoto.tsx":
+/***/ "./src/components/middle/message/actions/ChannelPhoto.tsx"
 /*!****************************************************************!*\
   !*** ./src/components/middle/message/actions/ChannelPhoto.tsx ***!
   \****************************************************************/
-/***/ ((__unused_webpack_module, __webpack_exports__, __webpack_require__) => {
+(__unused_webpack_module, __webpack_exports__, __webpack_require__) {
 
 __webpack_require__.r(__webpack_exports__);
 /* harmony export */ __webpack_require__.d(__webpack_exports__, {
@@ -1180,13 +1180,13 @@ const ChannelPhotoAction = ({
 };
 /* harmony default export */ const __WEBPACK_DEFAULT_EXPORT__ = ((0,_teact__WEBPACK_IMPORTED_MODULE_0__.memo)(ChannelPhotoAction));
 
-/***/ }),
+/***/ },
 
-/***/ "./src/components/middle/message/actions/Gift.tsx":
+/***/ "./src/components/middle/message/actions/Gift.tsx"
 /*!********************************************************!*\
   !*** ./src/components/middle/message/actions/Gift.tsx ***!
   \********************************************************/
-/***/ ((__unused_webpack_module, __webpack_exports__, __webpack_require__) => {
+(__unused_webpack_module, __webpack_exports__, __webpack_require__) {
 
 __webpack_require__.r(__webpack_exports__);
 /* harmony export */ __webpack_require__.d(__webpack_exports__, {
@@ -1278,13 +1278,13 @@ const GiftAction = ({
   };
 })(GiftAction)));
 
-/***/ }),
+/***/ },
 
-/***/ "./src/components/middle/message/actions/GiveawayPrize.tsx":
+/***/ "./src/components/middle/message/actions/GiveawayPrize.tsx"
 /*!*****************************************************************!*\
   !*** ./src/components/middle/message/actions/GiveawayPrize.tsx ***!
   \*****************************************************************/
-/***/ ((__unused_webpack_module, __webpack_exports__, __webpack_require__) => {
+(__unused_webpack_module, __webpack_exports__, __webpack_require__) {
 
 __webpack_require__.r(__webpack_exports__);
 /* harmony export */ __webpack_require__.d(__webpack_exports__, {
@@ -1395,13 +1395,13 @@ const GiveawayPrizeAction = ({
   };
 })(GiveawayPrizeAction)));
 
-/***/ }),
+/***/ },
 
-/***/ "./src/components/middle/message/actions/StarGift.tsx":
+/***/ "./src/components/middle/message/actions/StarGift.tsx"
 /*!************************************************************!*\
   !*** ./src/components/middle/message/actions/StarGift.tsx ***!
   \************************************************************/
-/***/ ((__unused_webpack_module, __webpack_exports__, __webpack_require__) => {
+(__unused_webpack_module, __webpack_exports__, __webpack_require__) {
 
 __webpack_require__.r(__webpack_exports__);
 /* harmony export */ __webpack_require__.d(__webpack_exports__, {
@@ -1567,13 +1567,13 @@ const StarGiftAction = ({
   };
 })(StarGiftAction)));
 
-/***/ }),
+/***/ },
 
-/***/ "./src/components/middle/message/actions/StarGiftUnique.tsx":
+/***/ "./src/components/middle/message/actions/StarGiftUnique.tsx"
 /*!******************************************************************!*\
   !*** ./src/components/middle/message/actions/StarGiftUnique.tsx ***!
   \******************************************************************/
-/***/ ((__unused_webpack_module, __webpack_exports__, __webpack_require__) => {
+(__unused_webpack_module, __webpack_exports__, __webpack_require__) {
 
 __webpack_require__.r(__webpack_exports__);
 /* harmony export */ __webpack_require__.d(__webpack_exports__, {
@@ -1716,13 +1716,13 @@ const StarGiftAction = ({
   };
 })(StarGiftAction)));
 
-/***/ }),
+/***/ },
 
-/***/ "./src/components/middle/message/actions/SuggestedPhoto.tsx":
+/***/ "./src/components/middle/message/actions/SuggestedPhoto.tsx"
 /*!******************************************************************!*\
   !*** ./src/components/middle/message/actions/SuggestedPhoto.tsx ***!
   \******************************************************************/
-/***/ ((__unused_webpack_module, __webpack_exports__, __webpack_require__) => {
+(__unused_webpack_module, __webpack_exports__, __webpack_require__) {
 
 __webpack_require__.r(__webpack_exports__);
 /* harmony export */ __webpack_require__.d(__webpack_exports__, {
@@ -1889,13 +1889,13 @@ const SuggestedPhotoAction = ({
   };
 })(SuggestedPhotoAction)));
 
-/***/ }),
+/***/ },
 
-/***/ "./src/components/middle/message/actions/SuggestedPostApproval.tsx":
+/***/ "./src/components/middle/message/actions/SuggestedPostApproval.tsx"
 /*!*************************************************************************!*\
   !*** ./src/components/middle/message/actions/SuggestedPostApproval.tsx ***!
   \*************************************************************************/
-/***/ ((__unused_webpack_module, __webpack_exports__, __webpack_require__) => {
+(__unused_webpack_module, __webpack_exports__, __webpack_require__) {
 
 __webpack_require__.r(__webpack_exports__);
 /* harmony export */ __webpack_require__.d(__webpack_exports__, {
@@ -2024,13 +2024,13 @@ const SuggestedPostApproval = ({
   };
 })(SuggestedPostApproval)));
 
-/***/ }),
+/***/ },
 
-/***/ "./src/components/middle/message/actions/SuggestedPostBalanceTooLow.tsx":
+/***/ "./src/components/middle/message/actions/SuggestedPostBalanceTooLow.tsx"
 /*!******************************************************************************!*\
   !*** ./src/components/middle/message/actions/SuggestedPostBalanceTooLow.tsx ***!
   \******************************************************************************/
-/***/ ((__unused_webpack_module, __webpack_exports__, __webpack_require__) => {
+(__unused_webpack_module, __webpack_exports__, __webpack_require__) {
 
 __webpack_require__.r(__webpack_exports__);
 /* harmony export */ __webpack_require__.d(__webpack_exports__, {
@@ -2112,13 +2112,13 @@ const SuggestedPostBalanceTooLow = ({
   };
 })(SuggestedPostBalanceTooLow)));
 
-/***/ }),
+/***/ },
 
-/***/ "./src/components/middle/message/actions/SuggestedPostRejected.tsx":
+/***/ "./src/components/middle/message/actions/SuggestedPostRejected.tsx"
 /*!*************************************************************************!*\
   !*** ./src/components/middle/message/actions/SuggestedPostRejected.tsx ***!
   \*************************************************************************/
-/***/ ((__unused_webpack_module, __webpack_exports__, __webpack_require__) => {
+(__unused_webpack_module, __webpack_exports__, __webpack_require__) {
 
 __webpack_require__.r(__webpack_exports__);
 /* harmony export */ __webpack_require__.d(__webpack_exports__, {
@@ -2185,13 +2185,13 @@ const SuggestedPostRejected = ({
   };
 })(SuggestedPostRejected)));
 
-/***/ }),
+/***/ },
 
-/***/ "./src/components/middle/message/hooks/useFluidBackgroundFilter.tsx":
+/***/ "./src/components/middle/message/hooks/useFluidBackgroundFilter.tsx"
 /*!**************************************************************************!*\
   !*** ./src/components/middle/message/hooks/useFluidBackgroundFilter.tsx ***!
   \**************************************************************************/
-/***/ ((__unused_webpack_module, __webpack_exports__, __webpack_require__) => {
+(__unused_webpack_module, __webpack_exports__, __webpack_require__) {
 
 __webpack_require__.r(__webpack_exports__);
 /* harmony export */ __webpack_require__.d(__webpack_exports__, {
@@ -2283,13 +2283,13 @@ function prepareStyle(filterId, asValue) {
   return `filter: url(#${filterId});`;
 }
 
-/***/ }),
+/***/ },
 
-/***/ "./src/hooks/useAverageColor.ts":
+/***/ "./src/hooks/useAverageColor.ts"
 /*!**************************************!*\
   !*** ./src/hooks/useAverageColor.ts ***!
   \**************************************/
-/***/ ((__unused_webpack_module, __webpack_exports__, __webpack_require__) => {
+(__unused_webpack_module, __webpack_exports__, __webpack_require__) {
 
 __webpack_require__.r(__webpack_exports__);
 /* harmony export */ __webpack_require__.d(__webpack_exports__, {
@@ -2321,7 +2321,7 @@ function useAverageColor(peer, fallbackColor = '#00000000') {
 }
 /* harmony default export */ const __WEBPACK_DEFAULT_EXPORT__ = (useAverageColor);
 
-/***/ })
+/***/ }
 
 }]);
 //# sourceMappingURL=src_components_common_gift_GiftMenuItems_tsx-src_components_middle_message_ActionMessage_tsx.50746c5ae9020da86caa.js.map

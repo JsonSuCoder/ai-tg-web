@@ -1,11 +1,11 @@
 "use strict";
 (self["webpackChunkTelyAI"] = self["webpackChunkTelyAI"] || []).push([["src_lib_rlottie_RLottie_ts"],{
 
-/***/ "./src/lib/rlottie/RLottie.ts":
+/***/ "./src/lib/rlottie/RLottie.ts"
 /*!************************************!*\
   !*** ./src/lib/rlottie/RLottie.ts ***!
   \************************************/
-/***/ ((__unused_webpack_module, __webpack_exports__, __webpack_require__) => {
+(__unused_webpack_module, __webpack_exports__, __webpack_require__) {
 
 __webpack_require__.r(__webpack_exports__);
 /* harmony export */ __webpack_require__.d(__webpack_exports__, {
@@ -486,13 +486,13 @@ function ensureCanvasSize(canvas, sizeFactor) {
 }
 /* harmony default export */ const __WEBPACK_DEFAULT_EXPORT__ = (RLottie);
 
-/***/ }),
+/***/ },
 
-/***/ "./src/util/PostMessageConnector.ts":
+/***/ "./src/util/PostMessageConnector.ts"
 /*!******************************************!*\
   !*** ./src/util/PostMessageConnector.ts ***!
   \******************************************/
-/***/ ((__unused_webpack_module, __webpack_exports__, __webpack_require__) => {
+(__unused_webpack_module, __webpack_exports__, __webpack_require__) {
 
 __webpack_require__.r(__webpack_exports__);
 /* harmony export */ __webpack_require__.d(__webpack_exports__, {
@@ -644,13 +644,13 @@ function createConnector(worker, onUpdate, channel) {
   return connector;
 }
 
-/***/ }),
+/***/ },
 
-/***/ "./src/util/cycleRestrict.ts":
+/***/ "./src/util/cycleRestrict.ts"
 /*!***********************************!*\
   !*** ./src/util/cycleRestrict.ts ***!
   \***********************************/
-/***/ ((__unused_webpack_module, __webpack_exports__, __webpack_require__) => {
+(__unused_webpack_module, __webpack_exports__, __webpack_require__) {
 
 __webpack_require__.r(__webpack_exports__);
 /* harmony export */ __webpack_require__.d(__webpack_exports__, {
@@ -660,13 +660,13 @@ function cycleRestrict(length, index) {
   return index - Math.floor(index / length) * length;
 }
 
-/***/ }),
+/***/ },
 
-/***/ "./src/util/launchMediaWorkers.ts":
+/***/ "./src/util/launchMediaWorkers.ts"
 /*!****************************************!*\
   !*** ./src/util/launchMediaWorkers.ts ***!
   \****************************************/
-/***/ ((__unused_webpack_module, __webpack_exports__, __webpack_require__) => {
+(__unused_webpack_module, __webpack_exports__, __webpack_require__) {
 
 __webpack_require__.r(__webpack_exports__);
 /* harmony export */ __webpack_require__.d(__webpack_exports__, {
@@ -698,7 +698,7 @@ function requestMediaWorker(payload, index) {
   return launchMediaWorkers()[index].connector.request(payload);
 }
 
-/***/ })
+/***/ }
 
 }]);
 //# sourceMappingURL=src_lib_rlottie_RLottie_ts.fb9396293cdbb870513b.js.map

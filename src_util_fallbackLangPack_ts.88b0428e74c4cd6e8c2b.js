@@ -1,11 +1,11 @@
 "use strict";
 (self["webpackChunkTelyAI"] = self["webpackChunkTelyAI"] || []).push([["src_util_fallbackLangPack_ts"],{
 
-/***/ "./src/util/fallbackLangPack.ts":
+/***/ "./src/util/fallbackLangPack.ts"
 /*!**************************************!*\
   !*** ./src/util/fallbackLangPack.ts ***!
   \**************************************/
-/***/ ((__unused_webpack_module, __webpack_exports__, __webpack_require__) => {
+(__unused_webpack_module, __webpack_exports__, __webpack_require__) {
 
 __webpack_require__.r(__webpack_exports__);
 /* harmony export */ __webpack_require__.d(__webpack_exports__, {
@@ -532,7 +532,7 @@ __webpack_require__.r(__webpack_exports__);
   CopyForwardDescription: 'Forward as copy enabled'
 });
 
-/***/ })
+/***/ }
 
 }]);
 //# sourceMappingURL=src_util_fallbackLangPack_ts.88b0428e74c4cd6e8c2b.js.map

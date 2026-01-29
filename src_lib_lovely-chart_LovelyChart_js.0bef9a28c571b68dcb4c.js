@@ -1,11 +1,11 @@
 "use strict";
 (self["webpackChunkTelyAI"] = self["webpackChunkTelyAI"] || []).push([["src_lib_lovely-chart_LovelyChart_js"],{
 
-/***/ "./src/lib/lovely-chart/Axes.js":
+/***/ "./src/lib/lovely-chart/Axes.js"
 /*!**************************************!*\
   !*** ./src/lib/lovely-chart/Axes.js ***!
   \**************************************/
-/***/ ((__unused_webpack_module, __webpack_exports__, __webpack_require__) => {
+(__unused_webpack_module, __webpack_exports__, __webpack_require__) {
 
 __webpack_require__.r(__webpack_exports__);
 /* harmony export */ __webpack_require__.d(__webpack_exports__, {
@@ -174,13 +174,13 @@ function createAxes(context, data, plotSize, colors) {
   };
 }
 
-/***/ }),
+/***/ },
 
-/***/ "./src/lib/lovely-chart/Header.js":
+/***/ "./src/lib/lovely-chart/Header.js"
 /*!****************************************!*\
   !*** ./src/lib/lovely-chart/Header.js ***!
   \****************************************/
-/***/ ((__unused_webpack_module, __webpack_exports__, __webpack_require__) => {
+(__unused_webpack_module, __webpack_exports__, __webpack_require__) {
 
 __webpack_require__.r(__webpack_exports__);
 /* harmony export */ __webpack_require__.d(__webpack_exports__, {
@@ -240,13 +240,13 @@ function createHeader(container, title, zoomOutLabel = 'Zoom out', zoomOutCallba
   };
 }
 
-/***/ }),
+/***/ },
 
-/***/ "./src/lib/lovely-chart/LovelyChart.js":
+/***/ "./src/lib/lovely-chart/LovelyChart.js"
 /*!*********************************************!*\
   !*** ./src/lib/lovely-chart/LovelyChart.js ***!
   \*********************************************/
-/***/ ((__unused_webpack_module, __webpack_exports__, __webpack_require__) => {
+(__unused_webpack_module, __webpack_exports__, __webpack_require__) {
 
 __webpack_require__.r(__webpack_exports__);
 /* harmony export */ __webpack_require__.d(__webpack_exports__, {
@@ -451,13 +451,13 @@ function create(container, originalData) {
 }
 
 
-/***/ }),
+/***/ },
 
-/***/ "./src/lib/lovely-chart/Minimap.js":
+/***/ "./src/lib/lovely-chart/Minimap.js"
 /*!*****************************************!*\
   !*** ./src/lib/lovely-chart/Minimap.js ***!
   \*****************************************/
-/***/ ((__unused_webpack_module, __webpack_exports__, __webpack_require__) => {
+(__unused_webpack_module, __webpack_exports__, __webpack_require__) {
 
 __webpack_require__.r(__webpack_exports__);
 /* harmony export */ __webpack_require__.d(__webpack_exports__, {
@@ -710,13 +710,13 @@ function createMinimap(container, data, colors, rangeCallback) {
   };
 }
 
-/***/ }),
+/***/ },
 
-/***/ "./src/lib/lovely-chart/Projection.js":
+/***/ "./src/lib/lovely-chart/Projection.js"
 /*!********************************************!*\
   !*** ./src/lib/lovely-chart/Projection.js ***!
   \********************************************/
-/***/ ((__unused_webpack_module, __webpack_exports__, __webpack_require__) => {
+(__unused_webpack_module, __webpack_exports__, __webpack_require__) {
 
 __webpack_require__.r(__webpack_exports__);
 /* harmony export */ __webpack_require__.d(__webpack_exports__, {
@@ -798,13 +798,13 @@ function toPixels(projection, labelIndex, value) {
   return [labelIndex * xFactor - xOffsetPx, availableHeight - (value * yFactor - yOffsetPx)];
 }
 
-/***/ }),
+/***/ },
 
-/***/ "./src/lib/lovely-chart/StateManager.js":
+/***/ "./src/lib/lovely-chart/StateManager.js"
 /*!**********************************************!*\
   !*** ./src/lib/lovely-chart/StateManager.js ***!
   \**********************************************/
-/***/ ((__unused_webpack_module, __webpack_exports__, __webpack_require__) => {
+(__unused_webpack_module, __webpack_exports__, __webpack_require__) {
 
 __webpack_require__.r(__webpack_exports__);
 /* harmony export */ __webpack_require__.d(__webpack_exports__, {
@@ -1016,13 +1016,13 @@ function calculateYAxisScale(plotHeight, yMin, yMax) {
   return (0,_formulas_js__WEBPACK_IMPORTED_MODULE_3__.yStepToScaleLevel)(viewportLabelsCount / maxRows);
 }
 
-/***/ }),
+/***/ },
 
-/***/ "./src/lib/lovely-chart/Tools.js":
+/***/ "./src/lib/lovely-chart/Tools.js"
 /*!***************************************!*\
   !*** ./src/lib/lovely-chart/Tools.js ***!
   \***************************************/
-/***/ ((__unused_webpack_module, __webpack_exports__, __webpack_require__) => {
+(__unused_webpack_module, __webpack_exports__, __webpack_require__) {
 
 __webpack_require__.r(__webpack_exports__);
 /* harmony export */ __webpack_require__.d(__webpack_exports__, {
@@ -1114,13 +1114,13 @@ function createTools(container, data, filterCallback) {
   };
 }
 
-/***/ }),
+/***/ },
 
-/***/ "./src/lib/lovely-chart/Tooltip.js":
+/***/ "./src/lib/lovely-chart/Tooltip.js"
 /*!*****************************************!*\
   !*** ./src/lib/lovely-chart/Tooltip.js ***!
   \*****************************************/
-/***/ ((__unused_webpack_module, __webpack_exports__, __webpack_require__) => {
+(__unused_webpack_module, __webpack_exports__, __webpack_require__) {
 
 __webpack_require__.r(__webpack_exports__);
 /* harmony export */ __webpack_require__.d(__webpack_exports__, {
@@ -1558,13 +1558,13 @@ function createTooltip(container, data, plotSize, colors, onZoom, onFocus) {
   };
 }
 
-/***/ }),
+/***/ },
 
-/***/ "./src/lib/lovely-chart/TransitionManager.js":
+/***/ "./src/lib/lovely-chart/TransitionManager.js"
 /*!***************************************************!*\
   !*** ./src/lib/lovely-chart/TransitionManager.js ***!
   \***************************************************/
-/***/ ((__unused_webpack_module, __webpack_exports__, __webpack_require__) => {
+(__unused_webpack_module, __webpack_exports__, __webpack_require__) {
 
 __webpack_require__.r(__webpack_exports__);
 /* harmony export */ __webpack_require__.d(__webpack_exports__, {
@@ -1702,13 +1702,13 @@ function createTransitionManager(onTick) {
   };
 }
 
-/***/ }),
+/***/ },
 
-/***/ "./src/lib/lovely-chart/Zoomer.js":
+/***/ "./src/lib/lovely-chart/Zoomer.js"
 /*!****************************************!*\
   !*** ./src/lib/lovely-chart/Zoomer.js ***!
   \****************************************/
-/***/ ((__unused_webpack_module, __webpack_exports__, __webpack_require__) => {
+(__unused_webpack_module, __webpack_exports__, __webpack_require__) {
 
 __webpack_require__.r(__webpack_exports__);
 /* harmony export */ __webpack_require__.d(__webpack_exports__, {
@@ -1868,13 +1868,13 @@ function createZoomer(data, overviewData, colors, stateManager, container, heade
   };
 }
 
-/***/ }),
+/***/ },
 
-/***/ "./src/lib/lovely-chart/canvas.js":
+/***/ "./src/lib/lovely-chart/canvas.js"
 /*!****************************************!*\
   !*** ./src/lib/lovely-chart/canvas.js ***!
   \****************************************/
-/***/ ((__unused_webpack_module, __webpack_exports__, __webpack_require__) => {
+(__unused_webpack_module, __webpack_exports__, __webpack_require__) {
 
 __webpack_require__.r(__webpack_exports__);
 /* harmony export */ __webpack_require__.d(__webpack_exports__, {
@@ -1906,13 +1906,13 @@ function clearCanvas(canvas, context) {
   context.clearRect(0, 0, canvas.width, canvas.height);
 }
 
-/***/ }),
+/***/ },
 
-/***/ "./src/lib/lovely-chart/captureEvents.js":
+/***/ "./src/lib/lovely-chart/captureEvents.js"
 /*!***********************************************!*\
   !*** ./src/lib/lovely-chart/captureEvents.js ***!
   \***********************************************/
-/***/ ((__unused_webpack_module, __webpack_exports__, __webpack_require__) => {
+(__unused_webpack_module, __webpack_exports__, __webpack_require__) {
 
 __webpack_require__.r(__webpack_exports__);
 /* harmony export */ __webpack_require__.d(__webpack_exports__, {
@@ -1985,13 +1985,13 @@ function captureEvents(element, options) {
   (0,_minifiers_js__WEBPACK_IMPORTED_MODULE_0__.addEventListener)(element, 'touchstart', onCapture);
 }
 
-/***/ }),
+/***/ },
 
-/***/ "./src/lib/lovely-chart/constants.js":
+/***/ "./src/lib/lovely-chart/constants.js"
 /*!*******************************************!*\
   !*** ./src/lib/lovely-chart/constants.js ***!
   \*******************************************/
-/***/ ((__unused_webpack_module, __webpack_exports__, __webpack_require__) => {
+(__unused_webpack_module, __webpack_exports__, __webpack_require__) {
 
 __webpack_require__.r(__webpack_exports__);
 /* harmony export */ __webpack_require__.d(__webpack_exports__, {
@@ -2084,13 +2084,13 @@ const ANIMATE_PROPS = [
 // Y-axis labels
 'yAxisScale', 'yAxisScaleSecond'];
 
-/***/ }),
+/***/ },
 
-/***/ "./src/lib/lovely-chart/data.js":
+/***/ "./src/lib/lovely-chart/data.js"
 /*!**************************************!*\
   !*** ./src/lib/lovely-chart/data.js ***!
   \**************************************/
-/***/ ((__unused_webpack_module, __webpack_exports__, __webpack_require__) => {
+(__unused_webpack_module, __webpack_exports__, __webpack_require__) {
 
 __webpack_require__.r(__webpack_exports__);
 /* harmony export */ __webpack_require__.d(__webpack_exports__, {
@@ -2219,13 +2219,13 @@ function cloneArray(array) {
   return array.slice(0);
 }
 
-/***/ }),
+/***/ },
 
-/***/ "./src/lib/lovely-chart/drawDatasets.js":
+/***/ "./src/lib/lovely-chart/drawDatasets.js"
 /*!**********************************************!*\
   !*** ./src/lib/lovely-chart/drawDatasets.js ***!
   \**********************************************/
-/***/ ((__unused_webpack_module, __webpack_exports__, __webpack_require__) => {
+(__unused_webpack_module, __webpack_exports__, __webpack_require__) {
 
 __webpack_require__.r(__webpack_exports__);
 /* harmony export */ __webpack_require__.d(__webpack_exports__, {
@@ -2471,13 +2471,13 @@ function drawDatasetPie(context, points, projection, options) {
   context.restore();
 }
 
-/***/ }),
+/***/ },
 
-/***/ "./src/lib/lovely-chart/format.js":
+/***/ "./src/lib/lovely-chart/format.js"
 /*!****************************************!*\
   !*** ./src/lib/lovely-chart/format.js ***!
   \****************************************/
-/***/ ((__unused_webpack_module, __webpack_exports__, __webpack_require__) => {
+(__unused_webpack_module, __webpack_exports__, __webpack_require__) {
 
 __webpack_require__.r(__webpack_exports__);
 /* harmony export */ __webpack_require__.d(__webpack_exports__, {
@@ -2583,13 +2583,13 @@ function getLabelTime(label) {
   return new Date(label.value).toString().match(/(\d+:\d+):/)[1];
 }
 
-/***/ }),
+/***/ },
 
-/***/ "./src/lib/lovely-chart/formulas.js":
+/***/ "./src/lib/lovely-chart/formulas.js"
 /*!******************************************!*\
   !*** ./src/lib/lovely-chart/formulas.js ***!
   \******************************************/
-/***/ ((__unused_webpack_module, __webpack_exports__, __webpack_require__) => {
+(__unused_webpack_module, __webpack_exports__, __webpack_require__) {
 
 __webpack_require__.r(__webpack_exports__);
 /* harmony export */ __webpack_require__.d(__webpack_exports__, {
@@ -2646,13 +2646,13 @@ function getSimplificationDelta(pointsLength) {
   return pointsLength >= _constants_js__WEBPACK_IMPORTED_MODULE_0__.SIMPLIFIER_MIN_POINTS ? Math.min(pointsLength / 1000, 1) : 0;
 }
 
-/***/ }),
+/***/ },
 
-/***/ "./src/lib/lovely-chart/minifiers.js":
+/***/ "./src/lib/lovely-chart/minifiers.js"
 /*!*******************************************!*\
   !*** ./src/lib/lovely-chart/minifiers.js ***!
   \*******************************************/
-/***/ ((__unused_webpack_module, __webpack_exports__, __webpack_require__) => {
+(__unused_webpack_module, __webpack_exports__, __webpack_require__) {
 
 __webpack_require__.r(__webpack_exports__);
 /* harmony export */ __webpack_require__.d(__webpack_exports__, {
@@ -2670,13 +2670,13 @@ function removeEventListener(element, event, cb) {
   element.removeEventListener(event, cb);
 }
 
-/***/ }),
+/***/ },
 
-/***/ "./src/lib/lovely-chart/preparePoints.js":
+/***/ "./src/lib/lovely-chart/preparePoints.js"
 /*!***********************************************!*\
   !*** ./src/lib/lovely-chart/preparePoints.js ***!
   \***********************************************/
-/***/ ((__unused_webpack_module, __webpack_exports__, __webpack_require__) => {
+(__unused_webpack_module, __webpack_exports__, __webpack_require__) {
 
 __webpack_require__.r(__webpack_exports__);
 /* harmony export */ __webpack_require__.d(__webpack_exports__, {
@@ -2745,13 +2745,13 @@ function prepareSumsByX(values) {
   return values.map(datasetValues => [datasetValues.reduce((sum, value) => sum + value, 0)]);
 }
 
-/***/ }),
+/***/ },
 
-/***/ "./src/lib/lovely-chart/simplify.js":
+/***/ "./src/lib/lovely-chart/simplify.js"
 /*!******************************************!*\
   !*** ./src/lib/lovely-chart/simplify.js ***!
   \******************************************/
-/***/ ((__unused_webpack_module, __webpack_exports__, __webpack_require__) => {
+(__unused_webpack_module, __webpack_exports__, __webpack_require__) {
 
 __webpack_require__.r(__webpack_exports__);
 /* harmony export */ __webpack_require__.d(__webpack_exports__, {
@@ -2925,13 +2925,13 @@ const simplify = (() => {
   return simplify;
 })();
 
-/***/ }),
+/***/ },
 
-/***/ "./src/lib/lovely-chart/skin.js":
+/***/ "./src/lib/lovely-chart/skin.js"
 /*!**************************************!*\
   !*** ./src/lib/lovely-chart/skin.js ***!
   \**************************************/
-/***/ ((__unused_webpack_module, __webpack_exports__, __webpack_require__) => {
+(__unused_webpack_module, __webpack_exports__, __webpack_require__) {
 
 __webpack_require__.r(__webpack_exports__);
 /* harmony export */ __webpack_require__.d(__webpack_exports__, {
@@ -3009,25 +3009,25 @@ function addCssRule(sheet, selector, rule) {
   sheet.insertRule(`${selector} { ${rule} }`, sheet.cssRules.length);
 }
 
-/***/ }),
+/***/ },
 
-/***/ "./src/lib/lovely-chart/styles/index.scss":
+/***/ "./src/lib/lovely-chart/styles/index.scss"
 /*!************************************************!*\
   !*** ./src/lib/lovely-chart/styles/index.scss ***!
   \************************************************/
-/***/ ((__unused_webpack_module, __webpack_exports__, __webpack_require__) => {
+(__unused_webpack_module, __webpack_exports__, __webpack_require__) {
 
 __webpack_require__.r(__webpack_exports__);
 // extracted by mini-css-extract-plugin
 
 
-/***/ }),
+/***/ },
 
-/***/ "./src/lib/lovely-chart/toggleText.js":
+/***/ "./src/lib/lovely-chart/toggleText.js"
 /*!********************************************!*\
   !*** ./src/lib/lovely-chart/toggleText.js ***!
   \********************************************/
-/***/ ((__unused_webpack_module, __webpack_exports__, __webpack_require__) => {
+(__unused_webpack_module, __webpack_exports__, __webpack_require__) {
 
 __webpack_require__.r(__webpack_exports__);
 /* harmony export */ __webpack_require__.d(__webpack_exports__, {
@@ -3065,13 +3065,13 @@ function toggleElementOut(element) {
   element.classList.add('lovely-chart--state-hidden');
 }
 
-/***/ }),
+/***/ },
 
-/***/ "./src/lib/lovely-chart/utils.js":
+/***/ "./src/lib/lovely-chart/utils.js"
 /*!***************************************!*\
   !*** ./src/lib/lovely-chart/utils.js ***!
   \***************************************/
-/***/ ((__unused_webpack_module, __webpack_exports__, __webpack_require__) => {
+(__unused_webpack_module, __webpack_exports__, __webpack_require__) {
 
 __webpack_require__.r(__webpack_exports__);
 /* harmony export */ __webpack_require__.d(__webpack_exports__, {
@@ -3188,7 +3188,7 @@ function debounce(fn, ms, shouldRunFirst = true, shouldRunLast = true) {
   };
 }
 
-/***/ })
+/***/ }
 
 }]);
 //# sourceMappingURL=src_lib_lovely-chart_LovelyChart_js.0bef9a28c571b68dcb4c.js.map

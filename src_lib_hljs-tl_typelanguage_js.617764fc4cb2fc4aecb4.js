@@ -1,11 +1,11 @@
 "use strict";
 (self["webpackChunkTelyAI"] = self["webpackChunkTelyAI"] || []).push([["src_lib_hljs-tl_typelanguage_js"],{
 
-/***/ "./src/lib/hljs-tl/typelanguage.js":
+/***/ "./src/lib/hljs-tl/typelanguage.js"
 /*!*****************************************!*\
   !*** ./src/lib/hljs-tl/typelanguage.js ***!
   \*****************************************/
-/***/ ((__unused_webpack_module, __webpack_exports__, __webpack_require__) => {
+(__unused_webpack_module, __webpack_exports__, __webpack_require__) {
 
 __webpack_require__.r(__webpack_exports__);
 /* harmony export */ __webpack_require__.d(__webpack_exports__, {
@@ -72,7 +72,7 @@ __webpack_require__.r(__webpack_exports__);
   };
 });
 
-/***/ })
+/***/ }
 
 }]);
 //# sourceMappingURL=src_lib_hljs-tl_typelanguage_js.617764fc4cb2fc4aecb4.js.map

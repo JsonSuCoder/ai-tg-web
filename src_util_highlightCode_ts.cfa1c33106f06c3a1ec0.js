@@ -1,10 +1,10 @@
 (self["webpackChunkTelyAI"] = self["webpackChunkTelyAI"] || []).push([["src_util_highlightCode_ts"],{
 
-/***/ "./node_modules/highlight.js/lib/languages lazy recursive ^((?%21\\.js\\.js).)*$":
+/***/ "./node_modules/highlight.js/lib/languages lazy recursive ^((?%21\\.js\\.js).)*$"
 /*!********************************************************************************************************************************!*\
   !*** ./node_modules/highlight.js/lib/languages/ lazy ^((?%21\.js\.js).)*$ chunkName: Highlight for [request] namespace object ***!
   \********************************************************************************************************************************/
-/***/ ((module, __unused_webpack_exports, __webpack_require__) => {
+(module, __unused_webpack_exports, __webpack_require__) {
 
 var map = {
 	"./1c": [
@@ -1562,13 +1562,13 @@ webpackAsyncContext.keys = () => (Object.keys(map));
 webpackAsyncContext.id = "./node_modules/highlight.js/lib/languages lazy recursive ^((?%21\\.js\\.js).)*$";
 module.exports = webpackAsyncContext;
 
-/***/ }),
+/***/ },
 
-/***/ "./src/util/highlightCode.ts":
+/***/ "./src/util/highlightCode.ts"
 /*!***********************************!*\
   !*** ./src/util/highlightCode.ts ***!
   \***********************************/
-/***/ ((__unused_webpack_module, __webpack_exports__, __webpack_require__) => {
+(__unused_webpack_module, __webpack_exports__, __webpack_require__) {
 
 "use strict";
 __webpack_require__.r(__webpack_exports__);
@@ -1700,7 +1700,7 @@ function treeToElements(tree) {
   }, children);
 }
 
-/***/ })
+/***/ }
 
 }]);
 //# sourceMappingURL=src_util_highlightCode_ts.cfa1c33106f06c3a1ec0.js.map
